@@ -38,7 +38,7 @@ def programa_beta_nike():
         print("El diccionario permanece sin cambios:")
         print(inventario_nike)
 
-    print("\nFin del Programa BETA de Nike.")
+    print("\nFin del Programa BETA de .")
 
 
 programa_beta_nike()
